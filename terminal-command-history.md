@@ -23,3 +23,10 @@ npx @better-auth/cli generate
 npx prisma db push
 npx prisma studio
 ```
+
+## Frontend
+
+```
+npm create vite@latest
+npm i better-auth
+```
