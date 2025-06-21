@@ -13,12 +13,10 @@ A full-stack authentication demo application built with **Better Auth**, React R
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="./doc_img/Screenshot%202025-06-21%20at%2011.42.46%20PM.png" alt="Login Page" width="45%" />
-  <img src="./doc_img/Screenshot%202025-06-21%20at%2011.43.36%20PM.png" alt="Registration Page" width="45%" />
-  <img src="./doc_img/Screenshot%202025-06-21%20at%2011.43.54%20PM.png" alt="Dashboard" width="45%" />
-  <img src="./doc_img/Screenshot%202025-06-21%20at%2011.44.30%20PM.png" alt="User Profile" width="45%" />
-</div>
+![Login Page](./doc_img/Screenshot%202025-06-21%20at%2011.42.46%20PM.png)
+![Registration Page](./doc_img/Screenshot%202025-06-21%20at%2011.43.36%20PM.png)
+![Dashboard](./doc_img/Screenshot%202025-06-21%20at%2011.43.54%20PM.png)
+![User Profile](./doc_img/Screenshot%202025-06-21%20at%2011.44.30%20PM.png)
 
 ## 📁 Project Structure
 
